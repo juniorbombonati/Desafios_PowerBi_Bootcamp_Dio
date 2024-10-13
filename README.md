@@ -1,3 +1,3 @@
-# power_bi_analyst
+# Bootcamp DIO - NTT Data - Power BI
 
-Repositório relacionado a formação de Power BI Analyst
+Repositório relacionado aos desafios de Power BI do Bootcamp da DIO "NTT Data Engineering".
